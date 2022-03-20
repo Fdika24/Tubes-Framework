@@ -1,5 +1,5 @@
 # Tubes Framework
-Your Tubes OOP solution
+Your Object Oriented Programing tubes framework baked with java 8.0
 ## What is this?
 
 Tubes framework is a framework to ease up your Tugas Besar Development.
